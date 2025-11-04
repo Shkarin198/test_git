@@ -1,0 +1,8 @@
+# Файлы настроек с чувствительной информацией
+config.json
+secrets.ini
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
