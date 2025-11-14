@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+
+.test {
+    background-color: blueviolet;
+    text-align: right;
+}
+
+[test="test1"] {
+    text-align: left;
+
+}
+
+#testid {
+    text-align: right;
+
+}
